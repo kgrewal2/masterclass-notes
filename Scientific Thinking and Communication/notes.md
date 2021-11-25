@@ -1,5 +1,5 @@
-- Greatest moments in your life are not decided by what you know but by how you think.
-- Truth - You can either ignore or understand it.
+# Hypothesis & Theory
+
 - Science
   - Is not the prediction of something that is happening repeatedly.
   - Is the prediction of something that has not happened yet. These are called theories.
@@ -17,6 +17,9 @@
   - Neptune was not following the laws.
     - Pluto was first considered as the cause but it wasn't big enough. It was actually dis-labeled as planet later.
     - One of the observatories used to get the data was not precise and correct. They took out the data of that observatory out and Neptune started to move exactly according to the Newton's Laws.
+
+# Biases
+
 - Coin Flipping - Cosmic Perspective
   - Take 1000 people and give a coin to everyone.
     Ones who get tails sit down. Others continue.
@@ -58,3 +61,15 @@
   - Accuracy: Closeness of given measurement to a certain value. 
     A weighing scale gives three values of the same object and the values are close to expected value.
     Example: A 20 pound object is measured as 19.9, 20.2, 20.3. This is accurate.
+
+# Communication
+
+- If you can add humor to a talk or teaching session, you are more able to grab their attention.
+  - If you talk to a kid, talk about the kid movies. Use the vocabulary kids can understand.
+  - If you talk to the senior, talk about the things they have lived through. Sputnik Launch and Crazy Americans.
+- Use your hands, mouth, eyes, legs... to communicate your idea or sentence. It will double the effectiveness.
+- Don't share all the details at once.
+  - Start from the simplest explanation. Earth is sphere.
+  - Add layers of information. When earth was forming, it was molten and tends to be squishy. That's why it is kind of flattened at poles and wider at equator. So earth is oblate spheroid.
+  - More layers. It is wider below the equator than it is at equator. Earth is a pear shaped oblate spheroid.
+- 
